@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+venv
+.idea
 
 # Distribution / packaging
 .Python
@@ -102,3 +104,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+将删除 .idea/codeStyles/
+将删除 .idea/dbnavigator.xml
+将删除 .idea/encodings.xml
+将删除 .idea/fiction.iml
+将删除 .idea/misc.xml
+将删除 .idea/modules.xml
+将删除 .idea/workspace.xml
